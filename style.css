@@ -5,6 +5,19 @@
     box-sizing: border-box;
 }
 
+.main-container{
+    display: none;
+}
+
+.splash-screen{
+    background: #000;
+}
+
+.splash-screen video{
+    width: 99.479vw;
+    height: 99.5vh;
+}
+
 .main-hero{
     width: 99.479vw;
     overflow-x: hidden;
